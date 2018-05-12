@@ -1,0 +1,58 @@
+_repo: He-Who-Gets-Slapped--A-Play-in-Four-Acts_37961
+_version: 0.1.0
+alternative_title: Tot, kto poluchaet poshchechiny. English
+contributor:
+  translator:
+    agent_name: Zilboorg, Gregory
+    birthdate: 1890
+    deathdate: 1959
+    gutenberg_agent_id: '39147'
+    url: http://www.gutenberg.org/2009/agents/39147
+covers:
+- cover_type: archival
+  image_path: 37961-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Andreyev, Leonid
+    aliases:
+    - Andreyev, Leonid Nikolayevich
+    - Андреев, Леонид Николаевич
+    - Andreev, Leonid Nikolaevich
+    birthdate: 1871
+    deathdate: 1919
+    gutenberg_agent_id: '1871'
+    url: http://www.gutenberg.org/2009/agents/1871
+    wikipedia: http://en.wikipedia.org/wiki/Leonid_Andreyev
+description: Paul Beaumont is a scientist who labored for years alone to prove his
+  radical theories on the origin of mankind. Baron Regnard becomes his patron, enabling
+  him to do research while living in his mansion. One day, Beaumont announces to his
+  beloved wife Marie and the baron that he has proved all his theories and is ready
+  to present them before the Academy of the Sciences. He leaves the arrangements to
+  the baron. However, after Beaumont goes to sleep, Marie steals his key, opens the
+  safe containing his papers, and gives them to the baron. It is clear that Marie
+  and the baron are lovers. On the appointed day, Paul travels to the Academy with
+  the baron. He is aghast when the baron, instead of introducing him, takes credit
+  for Paul's work himself. After he recovers from the shock, Paul confronts him in
+  front of everyone, but the baron tells them that Paul is merely his assistant and
+  slaps him. All of the academicians laugh at his humiliation. Paul later seeks comfort
+  from his wife, but she brazenly admits she and the baron are having an affair and
+  calls him a clown. Paul leaves them. Five years pass by. Paul is now a clown calling
+  himself "He who gets slapped", the star attraction of a small circus near Paris.
+  His act consists of him getting slapped every evening by other clowns. - Wikipedia.
+gutenberg_issued: '2011-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37961'
+  lccn: '22009771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Triangles (Interpersonal relations) -- Drama'
+- !lcsh 'Russian drama -- Translations into English'
+- !lcsh 'Andreyev, Leonid, 1871-1919 -- Translations into English'
+- !lcsh 'Clowns -- Drama'
+- !lcc 'PG'
+title: 'He Who Gets Slapped: A Play in Four Acts'
+url: http://www.gutenberg.org/ebooks/37961
